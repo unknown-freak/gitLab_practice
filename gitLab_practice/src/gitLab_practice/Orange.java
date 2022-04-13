@@ -2,6 +2,7 @@ package gitLab_practice;
 
 public class Orange {
 	String color;
+	String Name;
 	Orange(String color)
 	{
 		this.color=color;
